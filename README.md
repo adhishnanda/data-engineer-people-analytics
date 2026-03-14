@@ -73,11 +73,7 @@ The solution includes SQL checks for:
 
 ### 3. Final Data Mart
 
-A final view named:
-
-`dm_hiring_process`
-
-is created.
+A final view named: `dm_hiring_process` is created.
 
 Each row represents one application and includes:
 
